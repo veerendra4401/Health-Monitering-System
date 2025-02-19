@@ -69,6 +69,10 @@ The LED will blink with each detected heartbeat.
 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.**
 
+![20231116_204710](https://github.com/user-attachments/assets/7910616c-6950-497a-abb7-249cfed6ddb0)
+
+
+
 Acknowledgments
 Thanks to the Arduino community for their support and resources.
 Special thanks to the creators of the libraries used in this project.
